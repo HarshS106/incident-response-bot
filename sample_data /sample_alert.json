@@ -1,0 +1,12 @@
+{
+  "alert_id": "SAMPLE-001",
+  "alert_type": "compromised_account",
+  "severity": "CRITICAL",
+  "source": "splunk",
+  "timestamp": "2025-03-24T14:00:00Z",
+  "indicators": {
+    "user": "jdoe@company.com",
+    "source_ip": "41.203.18.75",
+    "country": "Nigeria"
+  }
+}
